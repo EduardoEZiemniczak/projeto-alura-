@@ -6,10 +6,10 @@
 :root {
     --branco-principal: white;
     --cinza-secundario: #c0c0c0;
-    --botao-azul:#167bf7;
+    --botao-azul:#8d1b1b;
     --cor-fundo:#00030c; 
     --font-principal:'Inter';
-    --botao-azul-efeito:#885eeb;
+    --botao-azul-efeito:#aa1a1a;
 }
 body {
     background-color: var(--cor-fundo);
@@ -152,6 +152,6 @@ body {
     color: black;
 }
 .link2:hover {
-    background-color: var(--cinza-secundario);
+    background-color: rgb(209, 203, 203);
     color: black;
 }
